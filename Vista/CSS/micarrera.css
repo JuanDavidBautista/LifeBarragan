@@ -1,0 +1,86 @@
+body{
+  background: #ffffff; 
+  background: rgb(250, 250, 249);
+  background: linear-gradient(90deg, rgb(60, 189, 221) 0%, rgb(255, 255, 255) 50%);
+}
+
+.container {
+  padding: 8px;
+  
+}
+
+h1{
+  text-align: center;
+}
+
+.caja1{
+  background-color: rgb(243, 252, 255);
+  width: 50%;
+  font-size: 30px;
+  border-radius: 8px;
+  box-shadow: 0 5px 10px 0 black;
+  padding: 25px;
+  margin-top: 50px;
+}
+
+.caja2{
+  background-color: rgb(243, 252, 255);
+  width: 50%;
+  font-size: 30px;
+  border-radius: 8px;
+  box-shadow: 0 5px 10px 0 black;
+  padding: 25px;
+  margin-top: 50px;
+}
+.caja3{
+  background-color: rgb(243, 252, 255);
+  width: 50%;
+  font-size: 30px;
+  border-radius: 8px;
+  box-shadow: 0 5px 10px 0 black;
+  padding: 25px;
+  margin-top: 50px;
+}
+.caja4{
+  background-color: rgb(243, 252, 255);
+  width: 50%;
+  font-size: 30px;
+  border-radius: 8px;
+  box-shadow: 0 5px 10px 0 black;
+  padding: 25px;
+  margin-top: 50px;
+}
+.caja5{
+  background-color: rgb(243, 252, 255);
+  width: 50%;
+  font-size: 30px;
+  border-radius: 8px;
+  box-shadow: 0 5px 10px 0 black;
+  padding: 25px;
+  margin-top: 50px;
+}
+.caja6{
+  background-color: rgb(243, 252, 255);
+  width: 50%;
+  font-size: 30px;
+  border-radius: 8px;
+  box-shadow: 0 5px 10px 0 black;
+  padding: 25px;
+  margin-top: 50px;
+}
+
+button{
+  width: 200px;
+  height: 50px;
+  font-size: 30px;
+  background-color: #000000;
+  color: #ffffff;
+  box-shadow: 0 10px 15px 0 rgb(97, 190, 252);
+}
+
+
+
+
+
+
+
